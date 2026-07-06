@@ -51,6 +51,12 @@ const nextConfig = {
   async redirects() {
     return [
       {
+        source: '/:path*',
+        has: [{ type: 'host', value: 'www.goldenskeys.com' }],
+        destination: 'https://goldenskeys.com/:path*',
+        permanent: true,
+      },
+      {
         source: '/home',
         destination: '/',
         permanent: true,
