@@ -1,0 +1,18 @@
+/* TEAM */
+
+Business: Golden's Casa Linda Keys
+Location: Casa Linda, Dallas, TX 75218, USA
+Contact: info@goldenskeys.com
+Phone: (214) 555-0147
+
+/* SITE */
+
+Last update: 2026/07/05
+Language: English
+Doctype: HTML5
+Technology: Next.js, TypeScript, Tailwind CSS
+Hosted: Netlify / Vercel
+
+/* THANKS */
+
+Built with Next.js App Router and deployed for fast, reliable performance.

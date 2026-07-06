@@ -1,0 +1,5 @@
+Contact: mailto:info@goldenskeys.com
+Preferred-Languages: en
+Canonical: https://goldenskeys.com/.well-known/security.txt
+Policy: https://goldenskeys.com/privacy/
+Expires: 2027-07-05T00:00:00.000Z

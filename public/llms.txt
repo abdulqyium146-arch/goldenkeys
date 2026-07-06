@@ -1,0 +1,123 @@
+# Golden's Casa Linda Keys — LLM-Friendly Site Index
+# https://goldenskeys.com/llms.txt
+
+## About This Business
+
+Golden's Casa Linda Keys is a licensed, bonded, and insured locksmith company based in Casa Linda, Dallas TX (ZIP 75218). We have served the East Dallas area and greater Dallas metro since 2004. All technicians hold a Texas TACLA license and are background-checked.
+
+**Business Name:** Golden's Casa Linda Keys
+**Phone:** (214) 555-0147
+**Email:** info@goldenskeys.com
+**Address:** Casa Linda, Dallas, TX 75218
+**Hours:** 24/7 (Emergency), Mon–Sat 8am–7pm (Standard)
+**Rating:** 4.9/5 from 312 verified reviews
+**Founded:** 2004
+**License:** TX TACLA (Texas Alarm License Act)
+
+## Core Services
+
+- **Emergency Locksmith (24/7)** — https://goldenskeys.com/emergency-locksmith/
+  Fast 15–45 minute response to lockouts across Dallas metro, day or night.
+
+- **Residential Locksmith** — https://goldenskeys.com/residential-locksmith/
+  House lockouts, rekeying, deadbolt installation, smart lock installation.
+
+- **Commercial Locksmith** — https://goldenskeys.com/commercial-locksmith/
+  Office lockouts, master key systems, access control, high-security locks.
+
+- **Automotive Locksmith** — https://goldenskeys.com/automotive-locksmith/
+  Car lockouts, transponder key programming, ignition repair, key fob replacement.
+
+- **Rekeying Services** — https://goldenskeys.com/rekeying/
+  $15–$35 per lock. Same-day service. Best option after moving into a new home.
+
+- **Key Duplication** — https://goldenskeys.com/key-duplication/
+  House keys, car keys, restricted keys cut on-site.
+
+## Lockout Services
+
+- House Lockout — https://goldenskeys.com/house-lockout/
+- Car Lockout — https://goldenskeys.com/car-lockout/
+- Apartment Lockout — https://goldenskeys.com/apartment-lockout/
+- Office Lockout — https://goldenskeys.com/office-lockout/
+
+## Automotive Services
+
+- Car Key Replacement — https://goldenskeys.com/car-key-replacement/
+- Transponder Key Programming — https://goldenskeys.com/transponder-key-programming/
+- Key Fob Programming — https://goldenskeys.com/key-fob-programming/
+- Ignition Repair — https://goldenskeys.com/ignition-repair/
+- Motorcycle Key Replacement — https://goldenskeys.com/motorcycle-key-replacement/
+- Push-to-Start Key — https://goldenskeys.com/push-to-start-key/
+
+## Lock Installation & Repair
+
+- Smart Lock Installation — https://goldenskeys.com/smart-lock-installation/
+- Deadbolt Installation — https://goldenskeys.com/deadbolt-installation/
+- Lock Installation — https://goldenskeys.com/lock-installation/
+- Lock Repair — https://goldenskeys.com/lock-repair/
+- High Security Locks — https://goldenskeys.com/high-security-locks/
+- Keypad Lock Installation — https://goldenskeys.com/keypad-lock-installation/
+- Mailbox Locks — https://goldenskeys.com/mailbox-locks/
+
+## Commercial Security
+
+- Access Control — https://goldenskeys.com/access-control/
+- Master Key Systems — https://goldenskeys.com/master-key-systems/
+- Panic Bar Installation — https://goldenskeys.com/panic-bar-installation/
+- Safe Opening — https://goldenskeys.com/safe-opening/
+- Broken Key Extraction — https://goldenskeys.com/broken-key-extraction/
+- New Homeowner Locks — https://goldenskeys.com/new-homeowner-locks/
+
+## Service Areas (Dallas Metro)
+
+- Dallas TX — https://goldenskeys.com/locksmith-dallas-tx/
+- Casa Linda (Primary Base) — https://goldenskeys.com/locksmith-casa-linda/
+- Garland TX — https://goldenskeys.com/locksmith-garland-tx/
+- Mesquite TX — https://goldenskeys.com/locksmith-mesquite-tx/
+- Richardson TX — https://goldenskeys.com/locksmith-richardson-tx/
+- Plano TX — https://goldenskeys.com/locksmith-plano-tx/
+- Rowlett TX — https://goldenskeys.com/locksmith-rowlett-tx/
+- Rockwall TX — https://goldenskeys.com/locksmith-rockwall-tx/
+- Sachse TX — https://goldenskeys.com/locksmith-sachse-tx/
+- Wylie TX — https://goldenskeys.com/locksmith-wylie-tx/
+- Forney TX — https://goldenskeys.com/locksmith-forney-tx/
+- Sunnyvale TX — https://goldenskeys.com/locksmith-sunnyvale-tx/
+- Balch Springs TX — https://goldenskeys.com/locksmith-balch-springs-tx/
+- Seagoville TX — https://goldenskeys.com/locksmith-seagoville-tx/
+- Heath TX — https://goldenskeys.com/locksmith-heath-tx/
+
+## Pricing Reference
+
+| Service | Typical Cost |
+|---|---|
+| House Lockout | $65–$125 |
+| Car Lockout | $50–$100 |
+| Rekeying (per lock) | $15–$35 |
+| Car Key Programming | $75–$250 |
+| Smart Lock Install | $75–$150 |
+| Deadbolt Install | $45–$100 |
+| Safe Opening | $100–$300 |
+
+*Prices are estimates. Free quotes provided before any work begins.*
+
+## FAQs
+
+**Q: How quickly can you arrive?**
+A: Typically 15–45 minutes anywhere in the Dallas metro area. We dispatch immediately upon your call, 24/7.
+
+**Q: Are you licensed?**
+A: Yes. We hold a Texas TACLA license and are fully bonded and insured.
+
+**Q: Should I rekey or replace locks when moving?**
+A: Rekeying ($15–$35/lock) is almost always the better choice — same security at a fraction of replacement cost.
+
+**Q: Do you program transponder keys on-site?**
+A: Yes. We carry professional equipment for most makes including Toyota, Honda, Ford, Chevrolet, Nissan, and others.
+
+## Sitemaps
+
+- Full sitemap: https://goldenskeys.com/sitemap.xml
+- Services sitemap: https://goldenskeys.com/sitemap-services.xml/
+- Locations sitemap: https://goldenskeys.com/sitemap-locations.xml/
+- Blog sitemap: https://goldenskeys.com/sitemap-blog.xml/
