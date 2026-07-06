@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Deadbolt Installation Dallas TX | Grade 1 Locks | $75–$200',
   description:
-    'Professional deadbolt installation in Dallas TX. ANSI Grade 1 locks — Schlage, Kwikset, Medeco. Single & double cylinder. $75–$200 installed. Call (214) 555-0147.',
+    'Professional deadbolt installation in Dallas TX. ANSI Grade 1 locks — Schlage, Kwikset, Medeco. Single & double cylinder. $75–$200 installed. Call (855) 633-0750.',
 }
 
 const faqs = [

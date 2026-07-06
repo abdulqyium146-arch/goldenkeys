@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,9 +9,9 @@ import { createServiceSchema, createFAQSchema, createBreadcrumbSchema } from '@/
 
 export const metadata: Metadata = {
   title: 'Motorcycle Key Replacement Dallas TX | Lost Bike Key | Golden\'s Keys',
-  description: 'Lost your motorcycle key in Dallas TX? We cut and program motorcycle keys on-site for most makes. Harley-Davidson, Honda, Yamaha, Kawasaki, Suzuki & more. Call (214) 555-0147.',
+  description: 'Lost your motorcycle key in Dallas TX? We cut and program motorcycle keys on-site for most makes. Harley-Davidson, Honda, Yamaha, Kawasaki, Suzuki & more. Call (855) 633-0750.',
   alternates: { canonical: `${SITE_URL}/motorcycle-key-replacement/` },
-  openGraph: { title: 'Motorcycle Key Replacement Dallas TX', description: 'On-site motorcycle key replacement in Dallas TX. All major brands. Call (214) 555-0147.', url: `${SITE_URL}/motorcycle-key-replacement/` },
+  openGraph: { title: 'Motorcycle Key Replacement Dallas TX', description: 'On-site motorcycle key replacement in Dallas TX. All major brands. Call (855) 633-0750.', url: `${SITE_URL}/motorcycle-key-replacement/` },
 }
 
 const faqs = [

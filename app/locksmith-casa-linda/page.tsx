@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import FAQAccordion from '@/components/FAQAccordion'
@@ -8,9 +8,9 @@ import { createLocationSchema, createFAQSchema, createBreadcrumbSchema } from '@
 
 export const metadata: Metadata = {
   title: 'Locksmith Casa Linda Dallas TX | Local 24/7 Service | Golden\'s Keys',
-  description: 'Golden\'s Casa Linda Keys — your neighborhood locksmith in Casa Linda, Dallas TX 75218. 24/7 emergency lockout, rekeying, car keys. Fastest response in the area. Call (214) 555-0147.',
+  description: 'Golden\'s Casa Linda Keys — your neighborhood locksmith in Casa Linda, Dallas TX 75218. 24/7 emergency lockout, rekeying, car keys. Fastest response in the area. Call (855) 633-0750.',
   alternates: { canonical: `${SITE_URL}/locksmith-casa-linda/` },
-  openGraph: { title: 'Locksmith Casa Linda Dallas TX | Golden\'s Keys', description: 'Local locksmith based in Casa Linda 75218. 24/7 emergency service, fastest response. Call (214) 555-0147.', url: `${SITE_URL}/locksmith-casa-linda/` },
+  openGraph: { title: 'Locksmith Casa Linda Dallas TX | Golden\'s Keys', description: 'Local locksmith based in Casa Linda 75218. 24/7 emergency service, fastest response. Call (855) 633-0750.', url: `${SITE_URL}/locksmith-casa-linda/` },
 }
 
 const faqs = [

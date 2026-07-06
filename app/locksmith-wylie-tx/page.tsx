@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import FAQAccordion from '@/components/FAQAccordion'
@@ -8,11 +8,11 @@ import { createLocationSchema, createFAQSchema, createBreadcrumbSchema } from '@
 
 export const metadata: Metadata = {
   title: `Locksmith Wylie TX | 24/7 Emergency | ${BUSINESS_NAME}`,
-  description: 'Trusted locksmith serving Wylie TX. Emergency lockouts, rekeying, car keys, smart locks & commercial security. Licensed & insured. Call (214) 555-0147.',
+  description: 'Trusted locksmith serving Wylie TX. Emergency lockouts, rekeying, car keys, smart locks & commercial security. Licensed & insured. Call (855) 633-0750.',
   alternates: { canonical: `${SITE_URL}/locksmith-wylie-tx/` },
   openGraph: {
     title: `Locksmith Wylie TX | ${BUSINESS_NAME}`,
-    description: 'Licensed 24/7 locksmith in Wylie TX. Fast response, upfront pricing. Call (214) 555-0147.',
+    description: 'Licensed 24/7 locksmith in Wylie TX. Fast response, upfront pricing. Call (855) 633-0750.',
     url: `${SITE_URL}/locksmith-wylie-tx/`,
   },
 }

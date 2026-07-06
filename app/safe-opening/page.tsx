@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Safe Opening Dallas TX | Combination, Digital, Gun Safe | $75–$200',
   description:
-    'Professional safe opening in Dallas TX. Combination, digital, gun safe, fire safe. Non-destructive methods first. $75–$200. Licensed locksmith. Call (214) 555-0147.',
+    'Professional safe opening in Dallas TX. Combination, digital, gun safe, fire safe. Non-destructive methods first. $75–$200. Licensed locksmith. Call (855) 633-0750.',
 }
 
 const faqs = [

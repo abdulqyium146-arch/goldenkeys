@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Car Key Replacement Dallas TX | All Makes & Models | On-Site',
   description:
-    'Lost car key replacement in Dallas TX. Transponder keys, push-to-start fobs, laser-cut keys. On-site programming. 40–60% cheaper than dealer. Call (214) 555-0147.',
+    'Lost car key replacement in Dallas TX. Transponder keys, push-to-start fobs, laser-cut keys. On-site programming. 40–60% cheaper than dealer. Call (855) 633-0750.',
 }
 
 const faqs = [

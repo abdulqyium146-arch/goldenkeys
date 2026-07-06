@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Smart Lock Installation Dallas TX | Schlage, August, Yale | $150–$350',
   description:
-    'Smart lock installation in Dallas TX. Schlage Encode, August Smart Lock, Yale, Kwikset Halo. Keypad, fingerprint, app control. $150–$350 installed. Call (214) 555-0147.',
+    'Smart lock installation in Dallas TX. Schlage Encode, August Smart Lock, Yale, Kwikset Halo. Keypad, fingerprint, app control. $150–$350 installed. Call (855) 633-0750.',
 }
 
 const faqs = [

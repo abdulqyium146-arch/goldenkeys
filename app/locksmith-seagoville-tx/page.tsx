@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import FAQAccordion from '@/components/FAQAccordion'
@@ -8,11 +8,11 @@ import { createLocationSchema, createFAQSchema, createBreadcrumbSchema } from '@
 
 export const metadata: Metadata = {
   title: `Locksmith Seagoville TX | 24/7 Emergency | ${BUSINESS_NAME}`,
-  description: 'Trusted locksmith serving Seagoville TX. Emergency lockouts, rekeying, car keys, smart locks & commercial security. Licensed & insured. Call (214) 555-0147.',
+  description: 'Trusted locksmith serving Seagoville TX. Emergency lockouts, rekeying, car keys, smart locks & commercial security. Licensed & insured. Call (855) 633-0750.',
   alternates: { canonical: `${SITE_URL}/locksmith-seagoville-tx/` },
   openGraph: {
     title: `Locksmith Seagoville TX | ${BUSINESS_NAME}`,
-    description: 'Licensed 24/7 locksmith in Seagoville TX. Fast response, upfront pricing. Call (214) 555-0147.',
+    description: 'Licensed 24/7 locksmith in Seagoville TX. Fast response, upfront pricing. Call (855) 633-0750.',
     url: `${SITE_URL}/locksmith-seagoville-tx/`,
   },
 }

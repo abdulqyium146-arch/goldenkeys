@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Rekeying Services Dallas TX | $15–$35/Lock | Same-Day',
   description:
-    'Professional rekeying services in Dallas TX. Moving in? Lost keys? Rekey your locks same day for $15–$35/lock. All brands. Licensed locksmith. Call (214) 555-0147.',
+    'Professional rekeying services in Dallas TX. Moving in? Lost keys? Rekey your locks same day for $15–$35/lock. All brands. Licensed locksmith. Call (855) 633-0750.',
 }
 
 const faqs = [

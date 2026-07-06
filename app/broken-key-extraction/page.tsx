@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Broken Key Extraction Dallas TX | Door & Ignition | $45–$100',
   description:
-    'Broken key extraction in Dallas TX. Stuck key removed from door lock or car ignition without damage. New key cut on-site. $45–$100. Call (214) 555-0147.',
+    'Broken key extraction in Dallas TX. Stuck key removed from door lock or car ignition without damage. New key cut on-site. $45–$100. Call (855) 633-0750.',
 }
 
 const faqs = [

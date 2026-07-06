@@ -561,7 +561,7 @@ export default function HomePage() {
                 step: '1',
                 icon: '📞',
                 title: 'Call Us',
-                desc: 'Call (214) 555-0147 anytime. Our friendly dispatch team answers 24/7 and will get your info.',
+                desc: 'Call (855) 633-0750 anytime. Our friendly dispatch team answers 24/7 and will get your info.',
               },
               {
                 step: '2',

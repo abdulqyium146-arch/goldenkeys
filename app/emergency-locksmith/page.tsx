@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Emergency Locksmith Dallas TX | 24/7 Fast Response',
   description:
-    '24/7 emergency locksmith in Dallas TX. Locked out of your house, car, or office? We dispatch in minutes. Licensed, bonded, insured. Call (214) 555-0147 now.',
+    '24/7 emergency locksmith in Dallas TX. Locked out of your house, car, or office? We dispatch in minutes. Licensed, bonded, insured. Call (855) 633-0750 now.',
 }
 
 const jsonLd = {
@@ -20,12 +20,12 @@ const jsonLd = {
   provider: {
     '@type': 'LocalBusiness',
     name: "Golden's Casa Linda Keys",
-    telephone: '+12145550147',
+    telephone: '+18556330750',
   },
   areaServed: { '@type': 'City', name: 'Dallas', containedIn: 'TX' },
   availableChannel: {
     '@type': 'ServiceChannel',
-    servicePhone: { '@type': 'ContactPoint', telephone: '+12145550147', contactType: 'customer service' },
+    servicePhone: { '@type': 'ContactPoint', telephone: '+18556330750', contactType: 'customer service' },
   },
 }
 

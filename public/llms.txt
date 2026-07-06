@@ -1,4 +1,4 @@
-# Golden's Casa Linda Keys — LLM-Friendly Site Index
+﻿# Golden's Casa Linda Keys — LLM-Friendly Site Index
 # https://goldenskeys.com/llms.txt
 
 ## About This Business
@@ -6,7 +6,7 @@
 Golden's Casa Linda Keys is a licensed, bonded, and insured locksmith company based in Casa Linda, Dallas TX (ZIP 75218). We have served the East Dallas area and greater Dallas metro since 2004. All technicians hold a Texas TACLA license and are background-checked.
 
 **Business Name:** Golden's Casa Linda Keys
-**Phone:** (214) 555-0147
+**Phone:** (855) 633-0750
 **Email:** info@goldenskeys.com
 **Address:** Casa Linda, Dallas, TX 75218
 **Hours:** 24/7 (Emergency), Mon–Sat 8am–7pm (Standard)

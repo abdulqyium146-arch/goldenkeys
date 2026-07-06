@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Link from 'next/link'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
@@ -10,7 +10,7 @@ import { PHONE, PHONE_HREF, serviceAreas } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Locksmith Rowlett TX | 24/7 Emergency | Licensed & Insured',
   description:
-    'Trusted locksmith in Rowlett TX. Waterview, Main Street area, Lake Ray Hubbard. 24/7 emergency lockout, rekeying, car keys. Licensed & insured. Call (214) 555-0147.',
+    'Trusted locksmith in Rowlett TX. Waterview, Main Street area, Lake Ray Hubbard. 24/7 emergency lockout, rekeying, car keys. Licensed & insured. Call (855) 633-0750.',
 }
 
 const faqs = [

@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,9 +9,9 @@ import { createServiceSchema, createFAQSchema, createBreadcrumbSchema } from '@/
 
 export const metadata: Metadata = {
   title: 'Mailbox Lock Repair & Replacement Dallas TX | Golden\'s Keys',
-  description: 'Mailbox lock repair, replacement, and key duplication in Dallas TX. Residential, apartment, and commercial mailbox locks. Fast same-day service. Call (214) 555-0147.',
+  description: 'Mailbox lock repair, replacement, and key duplication in Dallas TX. Residential, apartment, and commercial mailbox locks. Fast same-day service. Call (855) 633-0750.',
   alternates: { canonical: `${SITE_URL}/mailbox-locks/` },
-  openGraph: { title: 'Mailbox Lock Repair & Replacement Dallas TX', description: 'Mailbox lock service in Dallas TX. Repair, rekey, or replace. Call (214) 555-0147.', url: `${SITE_URL}/mailbox-locks/` },
+  openGraph: { title: 'Mailbox Lock Repair & Replacement Dallas TX', description: 'Mailbox lock service in Dallas TX. Repair, rekey, or replace. Call (855) 633-0750.', url: `${SITE_URL}/mailbox-locks/` },
 }
 
 const faqs = [

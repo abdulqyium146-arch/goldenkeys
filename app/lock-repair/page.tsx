@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Lock Repair Dallas TX | All Brands | $45–$150',
   description:
-    'Professional lock repair in Dallas TX. Jammed, stiff, damaged, or misaligned locks repaired on-site. All brands. $45–$150. Licensed locksmith. Call (214) 555-0147.',
+    'Professional lock repair in Dallas TX. Jammed, stiff, damaged, or misaligned locks repaired on-site. All brands. $45–$150. Licensed locksmith. Call (855) 633-0750.',
 }
 
 const faqs = [

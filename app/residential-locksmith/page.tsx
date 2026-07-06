@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Residential Locksmith Dallas TX | House Lockout, Rekeying & More',
   description:
-    'Licensed residential locksmith in Dallas TX. House lockout, rekeying, smart lock installation, deadbolt installation. Fast response, upfront pricing. Call (214) 555-0147.',
+    'Licensed residential locksmith in Dallas TX. House lockout, rekeying, smart lock installation, deadbolt installation. Fast response, upfront pricing. Call (855) 633-0750.',
 }
 
 const faqs = [

@@ -1,8 +1,8 @@
-// ─── Business Constants ─────────────────────────────────────────────────────
+﻿// ─── Business Constants ─────────────────────────────────────────────────────
 
 export const SITE_URL = 'https://goldenskeys.com'
-export const PHONE = '(214) 555-0147'
-export const PHONE_HREF = 'tel:+12145550147'
+export const PHONE = '(855) 633-0750'
+export const PHONE_HREF = 'tel:+18556330750'
 export const BUSINESS_NAME = "Golden's Casa Linda Keys"
 export const TAGLINE = "Casa Linda's Trusted Locksmith"
 export const ADDRESS = 'Casa Linda, Dallas, TX 75218'
@@ -285,7 +285,7 @@ export const serviceAreas = allLocations.map((l) => ({
 export const homeFaqs = [
   {
     q: 'How much does a locksmith cost in Dallas TX?',
-    a: 'Residential lockout $65–$125, car lockout $50–$100, rekeying $15–$35/lock, car key programming $75–$250. Free estimates available — call us at (214) 555-0147 for an exact quote.',
+    a: 'Residential lockout $65–$125, car lockout $50–$100, rekeying $15–$35/lock, car key programming $75–$250. Free estimates available — call us at (855) 633-0750 for an exact quote.',
   },
   {
     q: 'How quickly can you arrive for an emergency?',
@@ -338,7 +338,7 @@ export const serviceConfigs: Record<string, ServiceConfig> = {
     slug: 'emergency-locksmith',
     title: 'Emergency Locksmith',
     metaTitle: 'Emergency Locksmith Dallas TX | 24/7 Fast Response | Golden\'s Keys',
-    metaDescription: '24/7 emergency locksmith in Dallas TX. House lockouts, car lockouts, business lockouts. Fast 15–45 min response. Licensed & insured. Call (214) 555-0147 now.',
+    metaDescription: '24/7 emergency locksmith in Dallas TX. House lockouts, car lockouts, business lockouts. Fast 15–45 min response. Licensed & insured. Call (855) 633-0750 now.',
     h1: '24/7 Emergency Locksmith in Dallas TX',
     badge: '🚨 Emergency Service',
     subtitle: 'Locked out? We dispatch immediately — day or night. Licensed technicians across Dallas metro. Fast 15–45 min response.',
@@ -351,7 +351,7 @@ export const serviceConfigs: Record<string, ServiceConfig> = {
     slug: 'residential-locksmith',
     title: 'Residential Locksmith',
     metaTitle: 'Residential Locksmith Dallas TX | House Lockout, Rekeying & More',
-    metaDescription: 'Licensed residential locksmith in Dallas TX. House lockout, rekeying, smart lock installation, deadbolt installation. Fast response, upfront pricing. Call (214) 555-0147.',
+    metaDescription: 'Licensed residential locksmith in Dallas TX. House lockout, rekeying, smart lock installation, deadbolt installation. Fast response, upfront pricing. Call (855) 633-0750.',
     h1: 'Residential Locksmith in Dallas TX',
     badge: '🏠 Residential Services',
     subtitle: 'Complete home locksmith services — house lockouts, rekeying, deadbolt installation, smart locks. Licensed, bonded & insured. Fast response across Dallas metro.',
@@ -364,7 +364,7 @@ export const serviceConfigs: Record<string, ServiceConfig> = {
     slug: 'commercial-locksmith',
     title: 'Commercial Locksmith',
     metaTitle: 'Commercial Locksmith Dallas TX | Business Locks & Access Control',
-    metaDescription: 'Professional commercial locksmith in Dallas TX. Office lockouts, master key systems, access control, high security locks. Licensed & insured. Call (214) 555-0147.',
+    metaDescription: 'Professional commercial locksmith in Dallas TX. Office lockouts, master key systems, access control, high security locks. Licensed & insured. Call (855) 633-0750.',
     h1: 'Commercial Locksmith in Dallas TX',
     badge: '🏢 Commercial Services',
     subtitle: 'Protect your business with professional commercial lock solutions — master key systems, access control, high security locks, and office lockout service.',
@@ -377,7 +377,7 @@ export const serviceConfigs: Record<string, ServiceConfig> = {
     slug: 'automotive-locksmith',
     title: 'Automotive Locksmith',
     metaTitle: 'Automotive Locksmith Dallas TX | Car Lockout, Key Programming',
-    metaDescription: 'Expert automotive locksmith in Dallas TX. Car lockouts, transponder key programming, key fob replacement, ignition repair. All makes & models. Call (214) 555-0147.',
+    metaDescription: 'Expert automotive locksmith in Dallas TX. Car lockouts, transponder key programming, key fob replacement, ignition repair. All makes & models. Call (855) 633-0750.',
     h1: 'Automotive Locksmith in Dallas TX',
     badge: '🚗 Automotive Services',
     subtitle: 'On-site car key programming, car lockouts, transponder keys, ignition repair. We come to you anywhere in Dallas metro. Licensed, insured, competitive pricing.',
@@ -390,7 +390,7 @@ export const serviceConfigs: Record<string, ServiceConfig> = {
     slug: 'rekeying',
     title: 'Rekeying Services',
     metaTitle: 'Lock Rekeying Dallas TX | Rekey House After Moving | $15–$35/Lock',
-    metaDescription: 'Professional lock rekeying in Dallas TX. Rekey house after moving, lost keys, or security upgrade. $15–$35 per lock. Same-day service. Call (214) 555-0147.',
+    metaDescription: 'Professional lock rekeying in Dallas TX. Rekey house after moving, lost keys, or security upgrade. $15–$35 per lock. Same-day service. Call (855) 633-0750.',
     h1: 'Lock Rekeying Service in Dallas TX',
     badge: '🔑 Rekeying Services',
     subtitle: 'Professional rekeying for homes, apartments, and businesses. Same security, fraction of replacement cost. New to your home? Rekey first.',
@@ -403,7 +403,7 @@ export const serviceConfigs: Record<string, ServiceConfig> = {
     slug: 'key-duplication',
     title: 'Key Duplication',
     metaTitle: 'Key Duplication Dallas TX | House Keys, Car Keys, Security Keys Cut',
-    metaDescription: 'Fast key duplication in Dallas TX. House keys, car keys, padlock keys, high security keys. On-site mobile service across Dallas. Call (214) 555-0147.',
+    metaDescription: 'Fast key duplication in Dallas TX. House keys, car keys, padlock keys, high security keys. On-site mobile service across Dallas. Call (855) 633-0750.',
     h1: 'Key Duplication Service in Dallas TX',
     badge: '🗝️ Key Duplication',
     subtitle: 'Fast, accurate key duplication for all types — house keys, car keys, padlock keys, and restricted security keys. Mobile service across Dallas metro.',

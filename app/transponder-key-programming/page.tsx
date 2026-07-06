@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Transponder Key Programming Dallas TX | $75–$250 | On-Site',
   description:
-    'Transponder key programming in Dallas TX. All major brands — Toyota, Honda, Ford, Chevy, Nissan, Dodge. On-site programming $75–$250. Licensed. Call (214) 555-0147.',
+    'Transponder key programming in Dallas TX. All major brands — Toyota, Honda, Ford, Chevy, Nissan, Dodge. On-site programming $75–$250. Licensed. Call (855) 633-0750.',
 }
 
 const faqs = [

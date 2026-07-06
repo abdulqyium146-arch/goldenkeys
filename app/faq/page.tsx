@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import FAQAccordion from '@/components/FAQAccordion'
 import CTABanner from '@/components/CTABanner'
@@ -19,14 +19,14 @@ const faqGroups = [
       { q: 'How much does a locksmith cost in Dallas TX?', a: 'Residential lockouts cost $65–$125, car lockouts $50–$100, rekeying $15–$35/lock, transponder key programming $75–$250, smart lock installation $75–$150. We always provide a free quote before starting any work.' },
       { q: 'Do you charge a service call or trip fee?', a: 'We do not charge a separate trip fee. Our quoted price includes travel within the Dallas metro area. All pricing is disclosed upfront — no surprise charges.' },
       { q: 'Do you charge more for after-hours or emergency service?', a: 'No. We charge the same flat rates 24 hours a day, 7 days a week, including holidays. Our rates are transparent and do not change based on time of day.' },
-      { q: 'Can I get a quote over the phone?', a: 'Yes. Call (214) 555-0147 and our team will provide an accurate estimate based on your location, lock type, and the service needed. The final price will be confirmed on-site before any work begins.' },
+      { q: 'Can I get a quote over the phone?', a: 'Yes. Call (855) 633-0750 and our team will provide an accurate estimate based on your location, lock type, and the service needed. The final price will be confirmed on-site before any work begins.' },
     ],
   },
   {
     group: 'Emergency & Response Time',
     faqs: [
       { q: 'How fast can you arrive in Dallas TX?', a: 'We typically arrive in 15–45 minutes anywhere in the Dallas metro area. Being locally based in Casa Linda means we can reach most of East Dallas and surrounding areas very quickly.' },
-      { q: 'Are you available 24 hours a day?', a: 'Yes. We answer calls 24/7, every day of the year including holidays. Emergency lockout service is always available — just call (214) 555-0147.' },
+      { q: 'Are you available 24 hours a day?', a: 'Yes. We answer calls 24/7, every day of the year including holidays. Emergency lockout service is always available — just call (855) 633-0750.' },
       { q: 'What counts as a locksmith emergency?', a: 'Any situation where you are locked out of your home, car, or business and cannot access it. Other emergencies include broken keys in locks, malfunctioning locks that cannot be opened, and situations involving safety or security risk.' },
     ],
   },

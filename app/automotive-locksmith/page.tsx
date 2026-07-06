@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Automotive Locksmith Dallas TX | Car Lockout, Transponder Keys',
   description:
-    'Licensed automotive locksmith in Dallas TX. Car lockout, transponder key programming, car key replacement, ignition repair, key fob. All makes & models. Call (214) 555-0147.',
+    'Licensed automotive locksmith in Dallas TX. Car lockout, transponder key programming, car key replacement, ignition repair, key fob. All makes & models. Call (855) 633-0750.',
 }
 
 const faqs = [

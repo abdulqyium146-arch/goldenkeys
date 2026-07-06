@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Ignition Repair Dallas TX | Stuck Key, Ignition Replacement | $150–$300',
   description:
-    'Ignition cylinder repair and replacement in Dallas TX. Stuck key extraction, worn ignition, key will not turn. On-site service. $150–$300. Call (214) 555-0147.',
+    'Ignition cylinder repair and replacement in Dallas TX. Stuck key extraction, worn ignition, key will not turn. On-site service. $150–$300. Call (855) 633-0750.',
 }
 
 const faqs = [

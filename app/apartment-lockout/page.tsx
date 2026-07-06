@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,11 +9,11 @@ import { createServiceSchema, createFAQSchema, createBreadcrumbSchema } from '@/
 
 export const metadata: Metadata = {
   title: 'Apartment Lockout Service Dallas TX | Fast Response | Golden\'s Keys',
-  description: 'Locked out of your apartment in Dallas TX? We\'re available 24/7 for fast apartment lockout service. Licensed, insured, 15–45 min response. Call (214) 555-0147.',
+  description: 'Locked out of your apartment in Dallas TX? We\'re available 24/7 for fast apartment lockout service. Licensed, insured, 15–45 min response. Call (855) 633-0750.',
   alternates: { canonical: `${SITE_URL}/apartment-lockout/` },
   openGraph: {
     title: 'Apartment Lockout Service Dallas TX | Golden\'s Keys',
-    description: '24/7 apartment lockout service in Dallas TX. Fast response, licensed locksmith. Call (214) 555-0147.',
+    description: '24/7 apartment lockout service in Dallas TX. Fast response, licensed locksmith. Call (855) 633-0750.',
     url: `${SITE_URL}/apartment-lockout/`,
   },
 }
@@ -69,7 +69,7 @@ export default function ApartmentLockoutPage() {
                     <li>Stay calm and confirm you&apos;re locked out (not just a jammed door)</li>
                     <li>Check for any spare keys with family, friends, or a neighbor</li>
                     <li>Contact your building manager or emergency maintenance line</li>
-                    <li>If unavailable or non-responsive, call Golden&apos;s at (214) 555-0147</li>
+                    <li>If unavailable or non-responsive, call Golden&apos;s at (855) 633-0750</li>
                   </ol>
                 </div>
 

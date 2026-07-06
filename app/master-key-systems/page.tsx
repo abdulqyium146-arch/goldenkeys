@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { createServiceSchema, createFAQSchema, createBreadcrumbSchema } from '@/
 
 export const metadata: Metadata = {
   title: 'Master Key Systems Dallas TX | Commercial & Multi-Unit | Golden\'s Keys',
-  description: 'Professional master key system design and installation in Dallas TX. Offices, apartment complexes, HOAs, schools, and commercial properties. Licensed locksmith. Call (214) 555-0147.',
+  description: 'Professional master key system design and installation in Dallas TX. Offices, apartment complexes, HOAs, schools, and commercial properties. Licensed locksmith. Call (855) 633-0750.',
   alternates: { canonical: `${SITE_URL}/master-key-systems/` },
   openGraph: { title: 'Master Key Systems Dallas TX | Golden\'s Keys', description: 'Master key system design and installation for commercial and multi-unit properties in Dallas TX.', url: `${SITE_URL}/master-key-systems/` },
 }

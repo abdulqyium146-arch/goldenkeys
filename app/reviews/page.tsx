@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import CTABanner from '@/components/CTABanner'
 import { PHONE, PHONE_HREF, BUSINESS_NAME, SITE_URL, RATING, REVIEW_COUNT } from '@/lib/data'
@@ -6,7 +6,7 @@ import { createBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
   title: `Customer Reviews | ${RATING}★ Locksmith Dallas TX | ${BUSINESS_NAME}`,
-  description: `Read ${REVIEW_COUNT}+ verified customer reviews for ${BUSINESS_NAME}. ${RATING}★ average rating. Real reviews from Dallas homeowners and businesses. Call (214) 555-0147.`,
+  description: `Read ${REVIEW_COUNT}+ verified customer reviews for ${BUSINESS_NAME}. ${RATING}★ average rating. Real reviews from Dallas homeowners and businesses. Call (855) 633-0750.`,
   alternates: { canonical: `${SITE_URL}/reviews/` },
   openGraph: { title: `${REVIEW_COUNT}+ Reviews — ${RATING}★ Locksmith Dallas TX`, description: `${REVIEW_COUNT}+ verified reviews. ${RATING}★ average. Read what Dallas customers say about ${BUSINESS_NAME}.`, url: `${SITE_URL}/reviews/` },
 }

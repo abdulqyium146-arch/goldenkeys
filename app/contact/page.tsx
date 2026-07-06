@@ -1,13 +1,13 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import { PHONE, PHONE_HREF, BUSINESS_NAME, SITE_URL, ADDRESS, EMAIL } from '@/lib/data'
 import { createBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
   title: `Contact Us | ${BUSINESS_NAME} — Dallas TX Locksmith`,
-  description: `Contact ${BUSINESS_NAME} for locksmith service in Dallas TX. Call (214) 555-0147 for 24/7 emergencies. Licensed, bonded & insured. Free estimates.`,
+  description: `Contact ${BUSINESS_NAME} for locksmith service in Dallas TX. Call (855) 633-0750 for 24/7 emergencies. Licensed, bonded & insured. Free estimates.`,
   alternates: { canonical: `${SITE_URL}/contact/` },
-  openGraph: { title: `Contact ${BUSINESS_NAME}`, description: 'Call (214) 555-0147 for 24/7 locksmith service in Dallas TX. Free estimates.', url: `${SITE_URL}/contact/` },
+  openGraph: { title: `Contact ${BUSINESS_NAME}`, description: 'Call (855) 633-0750 for 24/7 locksmith service in Dallas TX. Free estimates.', url: `${SITE_URL}/contact/` },
 }
 
 const breadcrumb = createBreadcrumbSchema([{ name: 'Contact', url: '/contact' }])

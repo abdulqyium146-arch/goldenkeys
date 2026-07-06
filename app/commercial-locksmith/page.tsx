@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Commercial Locksmith Dallas TX | Office Lockout, Access Control',
   description:
-    'Licensed commercial locksmith in Dallas TX. Office lockouts, master key systems, access control, high security locks, panic bars. 24/7 service. Call (214) 555-0147.',
+    'Licensed commercial locksmith in Dallas TX. Office lockouts, master key systems, access control, high security locks, panic bars. 24/7 service. Call (855) 633-0750.',
 }
 
 const faqs = [

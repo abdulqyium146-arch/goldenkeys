@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'High Security Locks Dallas TX | Medeco, Mul-T-Lock | $200–$500',
   description:
-    'High security lock installation in Dallas TX. Medeco, Mul-T-Lock, ASSA ABLOY. Pick-resistant, bump-resistant, drill-resistant. $200–$500 installed. Call (214) 555-0147.',
+    'High security lock installation in Dallas TX. Medeco, Mul-T-Lock, ASSA ABLOY. Pick-resistant, bump-resistant, drill-resistant. $200–$500 installed. Call (855) 633-0750.',
 }
 
 const faqs = [

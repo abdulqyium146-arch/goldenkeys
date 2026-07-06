@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Car Lockout Dallas TX | 24/7 Auto Locksmith | $50–$100',
   description:
-    'Car lockout service in Dallas TX. Locked keys in your car? 24/7 dispatch, 15–45 min response, $50–$100. All vehicles, no damage. Call (214) 555-0147 now.',
+    'Car lockout service in Dallas TX. Locked keys in your car? 24/7 dispatch, 15–45 min response, $50–$100. All vehicles, no damage. Call (855) 633-0750 now.',
 }
 
 const faqs = [

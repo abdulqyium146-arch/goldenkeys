@@ -1,4 +1,4 @@
-import type { Metadata } from 'next'
+﻿import type { Metadata } from 'next'
 import Breadcrumbs from '@/components/Breadcrumbs'
 import PageHero from '@/components/PageHero'
 import ServiceSidebar from '@/components/ServiceSidebar'
@@ -9,9 +9,9 @@ import { createServiceSchema, createFAQSchema, createBreadcrumbSchema } from '@/
 
 export const metadata: Metadata = {
   title: 'Push-to-Start Key Replacement Dallas TX | Smart Key | Golden\'s Keys',
-  description: 'Lost or damaged push-to-start key fob in Dallas TX? We replace and program smart keys / proximity keys on-site for most vehicles. Call (214) 555-0147.',
+  description: 'Lost or damaged push-to-start key fob in Dallas TX? We replace and program smart keys / proximity keys on-site for most vehicles. Call (855) 633-0750.',
   alternates: { canonical: `${SITE_URL}/push-to-start-key/` },
-  openGraph: { title: 'Push-to-Start Key Replacement Dallas TX', description: 'On-site smart key replacement and programming in Dallas TX. Call (214) 555-0147.', url: `${SITE_URL}/push-to-start-key/` },
+  openGraph: { title: 'Push-to-Start Key Replacement Dallas TX', description: 'On-site smart key replacement and programming in Dallas TX. Call (855) 633-0750.', url: `${SITE_URL}/push-to-start-key/` },
 }
 
 const faqs = [
