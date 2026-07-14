@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Smart Lock Installation Dallas TX | Schlage, August, Yale | $150–$350',
   description:
-    'Smart lock installation in Dallas TX. Schlage Encode, August Smart Lock, Yale, Kwikset Halo. Keypad, fingerprint, app control. $150–$350 installed. Call (855) 633-0750.',
+    'Smart lock installation in Dallas TX. Schlage Encode, August Smart Lock, Yale, Kwikset Halo. Keypad, fingerprint, app control. $150–$350 installed. Call (833) 632-3357.',
 }
 
 const faqs = [

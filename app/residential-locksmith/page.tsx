@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Residential Locksmith Dallas TX | House Lockout, Rekeying & More',
   description:
-    'Licensed residential locksmith in Dallas TX. House lockout, rekeying, smart lock installation, deadbolt installation. Fast response, upfront pricing. Call (855) 633-0750.',
+    'Licensed residential locksmith in Dallas TX. House lockout, rekeying, smart lock installation, deadbolt installation. Fast response, upfront pricing. Call (833) 632-3357.',
 }
 
 const faqs = [

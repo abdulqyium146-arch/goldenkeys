@@ -9,11 +9,11 @@ import { createServiceSchema, createFAQSchema, createBreadcrumbSchema } from '@/
 
 export const metadata: Metadata = {
   title: 'Key Fob Programming Dallas TX | All Makes & Models | Golden\'s Keys',
-  description: 'Expert key fob programming in Dallas TX. Remote keyless entry, push-to-start fobs, proximity keys for all vehicle makes and models. Affordable on-site service. Call (855) 633-0750.',
+  description: 'Expert key fob programming in Dallas TX. Remote keyless entry, push-to-start fobs, proximity keys for all vehicle makes and models. Affordable on-site service. Call (833) 632-3357.',
   alternates: { canonical: `${SITE_URL}/key-fob-programming/` },
   openGraph: {
     title: 'Key Fob Programming Dallas TX | Golden\'s Keys',
-    description: 'Professional key fob programming for all makes. On-site service in Dallas TX. Call (855) 633-0750.',
+    description: 'Professional key fob programming for all makes. On-site service in Dallas TX. Call (833) 632-3357.',
     url: `${SITE_URL}/key-fob-programming/`,
   },
 }

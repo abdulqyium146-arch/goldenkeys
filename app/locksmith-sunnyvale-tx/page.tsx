@@ -8,11 +8,11 @@ import { createLocationSchema, createFAQSchema, createBreadcrumbSchema } from '@
 
 export const metadata: Metadata = {
   title: `Locksmith Sunnyvale TX | 24/7 Emergency | ${BUSINESS_NAME}`,
-  description: 'Trusted locksmith serving Sunnyvale TX. Emergency lockouts, rekeying, car keys, smart locks & commercial security. Licensed & insured. Call (855) 633-0750.',
+  description: 'Trusted locksmith serving Sunnyvale TX. Emergency lockouts, rekeying, car keys, smart locks & commercial security. Licensed & insured. Call (833) 632-3357.',
   alternates: { canonical: `${SITE_URL}/locksmith-sunnyvale-tx/` },
   openGraph: {
     title: `Locksmith Sunnyvale TX | ${BUSINESS_NAME}`,
-    description: 'Licensed 24/7 locksmith in Sunnyvale TX. Fast response, upfront pricing. Call (855) 633-0750.',
+    description: 'Licensed 24/7 locksmith in Sunnyvale TX. Fast response, upfront pricing. Call (833) 632-3357.',
     url: `${SITE_URL}/locksmith-sunnyvale-tx/`,
   },
 }

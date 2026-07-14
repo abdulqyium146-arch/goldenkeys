@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Office Lockout Dallas TX | 24/7 Commercial Lockout | $75–$150',
   description:
-    '24/7 office lockout service in Dallas TX. Locked out of your office, retail store, or warehouse? All commercial lock types. $75–$150. Call (855) 633-0750 now.',
+    '24/7 office lockout service in Dallas TX. Locked out of your office, retail store, or warehouse? All commercial lock types. $75–$150. Call (833) 632-3357 now.',
 }
 
 const faqs = [

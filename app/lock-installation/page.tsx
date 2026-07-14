@@ -9,9 +9,9 @@ import { createServiceSchema, createFAQSchema, createBreadcrumbSchema } from '@/
 
 export const metadata: Metadata = {
   title: 'Lock Installation Dallas TX | New Locks for Homes & Businesses | Golden\'s Keys',
-  description: 'Professional lock installation in Dallas TX. New deadbolts, knob locks, lever handles for homes, apartments, and commercial properties. Licensed & insured. Call (855) 633-0750.',
+  description: 'Professional lock installation in Dallas TX. New deadbolts, knob locks, lever handles for homes, apartments, and commercial properties. Licensed & insured. Call (833) 632-3357.',
   alternates: { canonical: `${SITE_URL}/lock-installation/` },
-  openGraph: { title: 'Lock Installation Dallas TX | Golden\'s Keys', description: 'Professional lock installation for residential and commercial properties in Dallas TX. Call (855) 633-0750.', url: `${SITE_URL}/lock-installation/` },
+  openGraph: { title: 'Lock Installation Dallas TX | Golden\'s Keys', description: 'Professional lock installation for residential and commercial properties in Dallas TX. Call (833) 632-3357.', url: `${SITE_URL}/lock-installation/` },
 }
 
 const faqs = [

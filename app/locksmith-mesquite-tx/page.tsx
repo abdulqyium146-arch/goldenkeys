@@ -10,7 +10,7 @@ import { PHONE, PHONE_HREF, serviceAreas } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Locksmith Mesquite TX | 24/7 Emergency | Licensed & Insured',
   description:
-    'Trusted locksmith in Mesquite TX. Town East, Mesquite Crossing, Sunnyvale area. 24/7 emergency lockout, rekeying, car keys. Licensed & insured. Call (855) 633-0750.',
+    'Trusted locksmith in Mesquite TX. Town East, Mesquite Crossing, Sunnyvale area. 24/7 emergency lockout, rekeying, car keys. Licensed & insured. Call (833) 632-3357.',
 }
 
 const faqs = [

@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'House Lockout Dallas TX | 24/7 Emergency | $65–$125',
   description:
-    'Locked out of your house in Dallas TX? 24/7 emergency lockout service. Non-destructive entry. 15–45 min response. $65–$125. Licensed locksmith. Call (855) 633-0750.',
+    'Locked out of your house in Dallas TX? 24/7 emergency lockout service. Non-destructive entry. 15–45 min response. $65–$125. Licensed locksmith. Call (833) 632-3357.',
 }
 
 const faqs = [
@@ -92,7 +92,7 @@ export default function HouseLockoutPage() {
                 </h2>
                 <div className="space-y-3">
                   {[
-                    { step: '1', title: 'You Call Us', desc: 'Call (855) 633-0750. We answer 24/7. Tell us your address and we confirm the ETA immediately.' },
+                    { step: '1', title: 'You Call Us', desc: 'Call (833) 632-3357. We answer 24/7. Tell us your address and we confirm the ETA immediately.' },
                     { step: '2', title: 'Technician Dispatched', desc: 'The nearest available licensed tech heads your way with full lockout equipment.' },
                     { step: '3', title: 'Identity Verification', desc: 'Upon arrival, we verify your photo ID matches the property address before any work begins.' },
                     { step: '4', title: 'Non-Destructive Entry', desc: 'We use professional picks, bypass tools, and shims to open the lock without damage.' },

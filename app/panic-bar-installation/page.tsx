@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Panic Bar Installation Dallas TX | IBC/NFPA Compliant | $300–$800',
   description:
-    'Panic bar installation in Dallas TX. IBC & NFPA code-compliant. Von Duprin, Falcon, Detex. Single and double door. Fire egress. $300–$800. Call (855) 633-0750.',
+    'Panic bar installation in Dallas TX. IBC & NFPA code-compliant. Von Duprin, Falcon, Detex. Single and double door. Fire egress. $300–$800. Call (833) 632-3357.',
 }
 
 const faqs = [

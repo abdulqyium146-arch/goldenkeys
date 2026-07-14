@@ -6,7 +6,7 @@ import { createBreadcrumbSchema } from '@/lib/schema'
 
 export const metadata: Metadata = {
   title: `Customer Reviews | ${RATING}★ Locksmith Dallas TX | ${BUSINESS_NAME}`,
-  description: `Read ${REVIEW_COUNT}+ verified customer reviews for ${BUSINESS_NAME}. ${RATING}★ average rating. Real reviews from Dallas homeowners and businesses. Call (855) 633-0750.`,
+  description: `Read ${REVIEW_COUNT}+ verified customer reviews for ${BUSINESS_NAME}. ${RATING}★ average rating. Real reviews from Dallas homeowners and businesses. Call (833) 632-3357.`,
   alternates: { canonical: `${SITE_URL}/reviews/` },
   openGraph: { title: `${REVIEW_COUNT}+ Reviews — ${RATING}★ Locksmith Dallas TX`, description: `${REVIEW_COUNT}+ verified reviews. ${RATING}★ average. Read what Dallas customers say about ${BUSINESS_NAME}.`, url: `${SITE_URL}/reviews/` },
 }

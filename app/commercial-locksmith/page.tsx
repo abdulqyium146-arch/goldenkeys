@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Commercial Locksmith Dallas TX | Office Lockout, Access Control',
   description:
-    'Licensed commercial locksmith in Dallas TX. Office lockouts, master key systems, access control, high security locks, panic bars. 24/7 service. Call (855) 633-0750.',
+    'Licensed commercial locksmith in Dallas TX. Office lockouts, master key systems, access control, high security locks, panic bars. 24/7 service. Call (833) 632-3357.',
 }
 
 const faqs = [

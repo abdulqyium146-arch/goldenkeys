@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Key Duplication Dallas TX | Same-Day | All Key Types',
   description:
-    'Professional key duplication in Dallas TX. Standard, transponder, push-to-start, mailbox, and padlock keys. Same-day service from $3. Call (855) 633-0750.',
+    'Professional key duplication in Dallas TX. Standard, transponder, push-to-start, mailbox, and padlock keys. Same-day service from $3. Call (833) 632-3357.',
 }
 
 const faqs = [

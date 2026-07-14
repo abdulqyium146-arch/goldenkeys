@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Car Lockout Dallas TX | 24/7 Auto Locksmith | $50–$100',
   description:
-    'Car lockout service in Dallas TX. Locked keys in your car? 24/7 dispatch, 15–45 min response, $50–$100. All vehicles, no damage. Call (855) 633-0750 now.',
+    'Car lockout service in Dallas TX. Locked keys in your car? 24/7 dispatch, 15–45 min response, $50–$100. All vehicles, no damage. Call (833) 632-3357 now.',
 }
 
 const faqs = [

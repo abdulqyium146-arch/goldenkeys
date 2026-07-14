@@ -9,7 +9,7 @@ import { PHONE, PHONE_HREF } from '@/lib/data'
 export const metadata: Metadata = {
   title: 'Emergency Locksmith Dallas TX | 24/7 Fast Response',
   description:
-    '24/7 emergency locksmith in Dallas TX. Locked out of your house, car, or office? We dispatch in minutes. Licensed, bonded, insured. Call (855) 633-0750 now.',
+    '24/7 emergency locksmith in Dallas TX. Locked out of your house, car, or office? We dispatch in minutes. Licensed, bonded, insured. Call (833) 632-3357 now.',
 }
 
 const jsonLd = {
@@ -20,12 +20,12 @@ const jsonLd = {
   provider: {
     '@type': 'LocalBusiness',
     name: "Golden's Casa Linda Keys",
-    telephone: '+18556330750',
+    telephone: '+18336323357',
   },
   areaServed: { '@type': 'City', name: 'Dallas', containedIn: 'TX' },
   availableChannel: {
     '@type': 'ServiceChannel',
-    servicePhone: { '@type': 'ContactPoint', telephone: '+18556330750', contactType: 'customer service' },
+    servicePhone: { '@type': 'ContactPoint', telephone: '+18336323357', contactType: 'customer service' },
   },
 }
 
